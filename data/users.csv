@@ -1,0 +1,13 @@
+id,name,age,city,tags
+1,Juan,27,Bogotá,tech;music
+2,Ana,25,Medellín,ai;books
+3,Luis,30,Cali,travel;music
+4,Sara,28,Bogotá,movies;ai
+5,Pedro,31,Bucaramanga,games;tech
+6,María,29,Cali,books;travel
+7,Carlos,26,Bogotá,music;movies
+8,Laura,24,Medellín,ai;games
+9,Jorge,33,Cartagena,travel;tech10,Jhon,27,New York,ai;tech;science;finance
+10,Lala,23,Vancouver,art;books;cinema;
+11,Jhon,27,New York,ai;tech;sci-fi;finance
+12,Arnold,54,Barcelona,politics;science;finance;real state

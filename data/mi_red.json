@@ -1,0 +1,175 @@
+{
+    "edges": [
+        [
+            8,
+            9
+        ],
+        [
+            7,
+            9
+        ],
+        [
+            7,
+            8
+        ],
+        [
+            5,
+            6
+        ],
+        [
+            4,
+            6
+        ],
+        [
+            4,
+            5
+        ],
+        [
+            3,
+            5
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            2
+        ]
+    ],
+    "users": [
+        {
+            "age": 54,
+            "city": "Barcelona",
+            "id": 12,
+            "name": "Arnold",
+            "tags": [
+                "politics",
+                "science",
+                "finance",
+                "real state"
+            ]
+        },
+        {
+            "age": 27,
+            "city": "New York",
+            "id": 11,
+            "name": "Jhon",
+            "tags": [
+                "ai",
+                "tech",
+                "sci-fi",
+                "finance"
+            ]
+        },
+        {
+            "age": 23,
+            "city": "Vancouver",
+            "id": 10,
+            "name": "Lala",
+            "tags": [
+                "art",
+                "books",
+                "cinema"
+            ]
+        },
+        {
+            "age": 33,
+            "city": "Cartagena",
+            "id": 9,
+            "name": "Jorge",
+            "tags": [
+                "travel",
+                "tech10"
+            ]
+        },
+        {
+            "age": 24,
+            "city": "Medellín",
+            "id": 8,
+            "name": "Laura",
+            "tags": [
+                "ai",
+                "games"
+            ]
+        },
+        {
+            "age": 26,
+            "city": "Bogotá",
+            "id": 7,
+            "name": "Carlos",
+            "tags": [
+                "music",
+                "movies"
+            ]
+        },
+        {
+            "age": 29,
+            "city": "Cali",
+            "id": 6,
+            "name": "María",
+            "tags": [
+                "books",
+                "travel"
+            ]
+        },
+        {
+            "age": 31,
+            "city": "Bucaramanga",
+            "id": 5,
+            "name": "Pedro",
+            "tags": [
+                "games",
+                "tech"
+            ]
+        },
+        {
+            "age": 28,
+            "city": "Bogotá",
+            "id": 4,
+            "name": "Sara",
+            "tags": [
+                "movies",
+                "ai"
+            ]
+        },
+        {
+            "age": 30,
+            "city": "Cali",
+            "id": 3,
+            "name": "Luis",
+            "tags": [
+                "travel",
+                "music"
+            ]
+        },
+        {
+            "age": 25,
+            "city": "Medellín",
+            "id": 2,
+            "name": "Ana",
+            "tags": [
+                "ai",
+                "books"
+            ]
+        },
+        {
+            "age": 27,
+            "city": "Bogotá",
+            "id": 1,
+            "name": "Juan",
+            "tags": [
+                "tech",
+                "music"
+            ]
+        }
+    ]
+}
